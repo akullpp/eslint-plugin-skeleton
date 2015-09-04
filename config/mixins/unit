@@ -1,0 +1,11 @@
+{
+    "extends": [
+        "./browser",
+        "./test"
+    ],
+    "globals": {
+        "inject": true,
+        "module": true,
+        "sinon": true
+    }
+}

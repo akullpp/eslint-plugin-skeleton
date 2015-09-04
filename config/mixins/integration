@@ -1,0 +1,9 @@
+{
+    "extends": [
+        "./browser",
+        "./test"
+    ],
+    "globals": {
+        "ngMidwayTester": true
+    }
+}

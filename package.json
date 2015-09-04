@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-skeleton",
+  "description": "Skeleton node module for an ESLint plugin.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/akullpp/eslint-plugin-skeleton",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:akullpp/eslint-plugin-skeleton.git"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^1.1.0",
+    "mocha": "^2.2.5"
+  }
+}

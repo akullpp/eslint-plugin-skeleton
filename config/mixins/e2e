@@ -1,10 +1,8 @@
 {
+    "env": {
+        "protractor": true
+    },
     "extends": [
         "./test"
-    ],
-    "globals": {
-        "browser": true,
-        "element": true,
-        "by": true
-    }
+    ]
 }

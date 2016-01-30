@@ -1,11 +1,16 @@
 {
+    "env": {
+        "jquery": true
+    },
     "extends": [
         "./browser",
         "./test"
     ],
     "globals": {
+        "chai": true,
         "inject": true,
         "module": true,
-        "sinon": true
+        "sinon": true,
+        "stub": true
     }
 }

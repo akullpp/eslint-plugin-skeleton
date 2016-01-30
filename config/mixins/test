@@ -3,7 +3,6 @@
         "mocha": true
     },
     "rules": {
-        "skeleton/leftover-only": 2,
-        "padded-blocks": 0
+        "skeleton/leftover-only": 2
     }
 }

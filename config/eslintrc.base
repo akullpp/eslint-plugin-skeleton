@@ -35,7 +35,7 @@
     "no-obj-calls": 2,                              // http://eslint.org/docs/rules/no-obj-calls
     "no-regex-spaces": 2,                           // http://eslint.org/docs/rules/no-regex-spaces
     "no-sparse-arrays": 2,                          // http://eslint.org/docs/rules/no-sparse-arrays
-    "no-unexpected-multiline": 2                    // http://eslint.org/docs/rules/no-unexpected-multiline
+    "no-unexpected-multiline": 2,                   // http://eslint.org/docs/rules/no-unexpected-multiline
     "no-unreachable": 2,                            // http://eslint.org/docs/rules/no-unreachable
     "use-isnan": 2,                                 // http://eslint.org/docs/rules/use-isnan
     "valid-jsdoc": 0,                               // http://eslint.org/docs/rules/valid-jsdoc

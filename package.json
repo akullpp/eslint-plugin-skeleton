@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-skeleton",
   "description": "Skeleton node module for an ESLint plugin.",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "homepage": "https://github.com/akullpp/eslint-plugin-skeleton",
   "repository": {
     "type": "git",

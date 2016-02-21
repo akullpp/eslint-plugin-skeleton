@@ -70,7 +70,7 @@
     "no-extra-bind": 2,                             // http://eslint.org/docs/rules/no-extra-bind
     "no-fallthrough": 2,                            // http://eslint.org/docs/rules/no-fallthrough
     "no-floating-decimal": 2,                       // http://eslint.org/docs/rules/no-floating-decimal
-    "no-implicit-coercion": 1,                      // http://eslint.org/docs/rules/no-implicit-coercion
+    "no-implicit-coercion": 0,                      // http://eslint.org/docs/rules/no-implicit-coercion
     "no-implied-eval": 2,                           // http://eslint.org/docs/rules/no-implied-eval
     "no-iterator": 2,                               // http://eslint.org/docs/rules/no-iterator
     "no-labels": 2,                                 // http://eslint.org/docs/rules/no-labels
@@ -140,7 +140,8 @@
         "beforeColon": false,
         "afterColon": true
     }],
-    "linebreak-style": 1,                           // http://eslint.org/docs/rules/linebreak-style
+    "linebreak-style": 0,                           // http://eslint.org/docs/rules/linebreak-style
+    "max-len": [2, 120, 4],                         // http://eslint.org/docs/rules/max-len
     "max-nested-callbacks": 0,                      // http://eslint.org/docs/rules/max-nested-callbacks
     "new-cap": 0,                                   // http://eslint.org/docs/rules/new-cap
     "new-parens": 1,                                // http://eslint.org/docs/rules/new-parens

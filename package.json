@@ -8,10 +8,12 @@
     "url": "ssh://git@github.com:akullpp/eslint-plugin-skeleton.git"
   },
   "scripts": {
-    "test": "mocha test/**/*.js"
+    "test": "mocha test/**/*.js",
+    "test-ci": "mocha test/**/*.js --reporter mocha-junit-reporter"
   },
   "devDependencies": {
     "eslint": "^1.7.0",
-    "mocha": "^2.2.5"
+    "mocha": "^2.2.5",
+    "mocha-junit-reporter": "^1.9.1"
   }
 }

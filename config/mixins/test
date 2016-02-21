@@ -1,9 +1,11 @@
 {
+    "extends": [
+        "./browser"
+    ],
     "env": {
         "mocha": true
     },
     "rules": {
-        "padded-blocks": 0,
         "skeleton/leftover-only": 2
     }
 }

@@ -165,7 +165,6 @@
     "padded-blocks": [1, "never"],                  // http://eslint.org/docs/rules/padded-blocks
     "operator-assignment": 0,                       // http://eslint.org/docs/rules/operator-assignment
     "operator-linebreak": [1, "after"],             // http://eslint.org/docs/rules/operator-linebreak
-    "padded-blocks": [1, "never"],                  // http://eslint.org/docs/rules/padded-blocks
     "quote-props": [1, "as-needed"],                // http://eslint.org/docs/rules/quote-props
     "semi": [1, "always"],                          // http://eslint.org/docs/rules/semi
     "quotes": [1, "single", "avoid-escape"],        // http://eslint.org/docs/rules/quotes

@@ -172,7 +172,6 @@
       "before": false,
       "after": true
     }],
-    "semi": [1, "always"],                          // http://eslint.org/docs/rules/semi
     "sort-vars": [1, {                              // http://eslint.org/docs/rules/sort-vars
         "ignoreCase": true
     }],

@@ -161,7 +161,6 @@
     "no-trailing-spaces": 1,                        // http://eslint.org/docs/rules/no-trailing-spaces
     "no-underscore-dangle": 0,                      // http://eslint.org/docs/rules/no-underscore-dangle
     "no-unneeded-ternary": 1,                       // http://eslint.org/docs/rules/no-unneeded-ternary
-    "no-extra-parens": 1,                           // http://eslint.org/docs/rules/no-extra-parens
     "one-var": [1, "never"],                        // http://eslint.org/docs/rules/one-var
     "padded-blocks": [1, "never"],                  // http://eslint.org/docs/rules/padded-blocks
     "operator-assignment": 0,                       // http://eslint.org/docs/rules/operator-assignment

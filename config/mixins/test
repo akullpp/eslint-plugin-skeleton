@@ -1,11 +1,14 @@
 {
-    "extends": [
-        "./browser"
-    ],
-    "env": {
-        "mocha": true
-    },
-    "rules": {
-        "skeleton/leftover-only": 2
-    }
+  "extends": [
+    "./browser"
+  ],
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "adorsys/leftover-only": 2
+  },
+  "globals": {
+    "module": true
+  }
 }

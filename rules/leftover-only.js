@@ -1,8 +1,8 @@
 'use strict';
 
-module.exports = function(context) {
+module.exports = function (context) {
     return {
-        CallExpression: function(node) {
+        CallExpression: function (node) {
             var callee = node.callee;
 
             if (callee.type === 'MemberExpression' && callee.property.name === 'only') {

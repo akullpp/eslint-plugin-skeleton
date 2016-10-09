@@ -1,7 +1,7 @@
 'use strict';
 
-var rule = require("../rules/leftover-only")
-var RuleTester = require('eslint').RuleTester
+var rule = require('../rules/leftover-only');
+var RuleTester = require('eslint').RuleTester;
 
 var ruleTester = new RuleTester();
 

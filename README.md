@@ -4,7 +4,7 @@ ESLint Plugin with recommended rules and mixins for the different environments o
 
 ## Integration
 
-Either insert it as a local folder with a relative path in the `package.json` (see [akSkeleton](https://git.adorsys.de/adorsys/adorsys-ng-skeleton)) or use it as node module.
+Either insert it as a local folder with a relative path in the `package.json` (see [akSkeleton](https://github.com/akullpp/akSkeleton)) or use it as node module.
 
 Your root `.eslintrc` needs to look the following:
 

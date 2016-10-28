@@ -6,7 +6,7 @@
     "mocha": true
   },
   "rules": {
-    "adorsys/leftover-only": 2
+    "skeleton/leftover-only": 2
   },
   "globals": {
     "module": true

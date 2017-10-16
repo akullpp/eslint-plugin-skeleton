@@ -1,5 +1,11 @@
 # eslint-plugin-skeleton
 
+## Deprecation Warning
+
+It is recommended that you use Vue, React or even Angular 2 at this point.
+
+## Description
+
 ESLint Plugin with recommended rules and mixins for the different environments of an Angular web application.
 
 ## Integration

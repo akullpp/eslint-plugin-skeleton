@@ -1,8 +1,8 @@
 # eslint-plugin-skeleton
 
-## Deprecation Warning
+## Note
 
-It is recommended that you use Vue, React or even Angular 2 at this point.
+I will update this module only on request. If you want an update, create a pull request or raise an issue.
 
 ## Description
 
